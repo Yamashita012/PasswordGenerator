@@ -26,7 +26,6 @@ Note: The encrypted password will be stored in the "GeneratedPasswords.txt" file
 [+]Enter file path (e.g driveLetter:\UserName\UserName\Desktop\Destination): C:\Users\John\Documents
 [+]Enter length of password: 10
 [+]What is the password for? WebsiteA
-Which account password do you want to decrypt: Encrypt
 ```
 
 ## Disclaimer
